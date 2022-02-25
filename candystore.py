@@ -1,6 +1,7 @@
 candy_list = ["snickers", "M&M", "Kit Kat","Starburts","gummy","Juicy Fruit"]
 
 allowance = 3
+# create cart in array to store all the candy
 cart = []
 
 
